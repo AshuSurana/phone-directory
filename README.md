@@ -1,2 +1,0 @@
-# phone-directory
-React Application
